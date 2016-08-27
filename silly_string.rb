@@ -13,7 +13,7 @@ puts "IM NOT SHOUTING".downcase
 puts "supercalifragilisticexpialidocious".length
 
 #5: Let's add the two strings together below using concatenation.
-puts "wow" + "mom"
+puts "wow" + " mom"
 
 #6. Let's capitalize the first character of the string below:
 
